@@ -21,7 +21,7 @@
 | [Jumper Wires](https://www.wildberries.by/catalog/1221303101/detail.aspx?size=1797083036) | Connections between components | 1 | $3.00 | $3.00 | [Wildberries](https://www.wildberries.by/catalog/1221303101/detail.aspx?size=1797083036) |
 | [Project Box](https://www.wildberries.by/catalog/559135373/detail.aspx?size=767960277) | Enclosure for the circuit | 1 | $3.00 | $3.00 | [Wildberries](https://www.wildberries.by/catalog/559135373/detail.aspx?size=767960277) |
 | **Parts subtotal** | — | — | — | **$42.50** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$42.50** | — |
+| **Tax & shipping** | — | — | — | **$5.00** | — |
+| **Total** | — | — | — | **$47.50** | — |
 
-$22.50 left of the tier's funding.
+$17.50 left of the tier's funding.
